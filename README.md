@@ -1,6 +1,6 @@
-# Chat AI
+# Chat AI FLUTTER GEMINI
 
-![image](https://github.com/riskiilyas/Chat-AI-App/assets/71499142/664b56df-8d0b-49f1-9f22-b2f94b03301a)
+![image]()
 
 ## How to Install
 - Clone this Repository
