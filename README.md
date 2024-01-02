@@ -9,5 +9,3 @@
   
 ![image](https://github.com/riskiilyas/Chat-AI-App/assets/71499142/86ca6686-3d23-455e-922d-8f1bab7b88ca)
 
-## Full Article
-https://medium.com/@riskiilyas03/level-up-your-flutter-apps-implementing-ai-powered-chat-with-gemini-api-ef6f0aab61ac
