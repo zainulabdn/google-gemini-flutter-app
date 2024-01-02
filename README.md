@@ -1,6 +1,6 @@
 # Chat AI FLUTTER GEMINI
 
-![image]()
+![image](https://github.com/zainulabdn/google-gemini-flutter-app/blob/main/assets/banner.PNG)
 
 ## How to Install
 - Clone this Repository
